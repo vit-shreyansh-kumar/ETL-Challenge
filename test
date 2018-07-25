@@ -1,0 +1,29 @@
+""" Purpose of this file is to have the column and row mapping """
+
+0 -> id;
+1 -> aspiration;
+2 -> body-style;
+3 -> bore;
+4 -> city-mpg;
+5 -> compression-ratio;
+6 -> curb-weight;
+7 -> drive-wheels;
+8 -> engine-location;
+9 -> engine-size;
+10 -> engine-type;
+11 -> fuel-system;
+12 -> fuel-type;
+13 -> height;
+14 -> highway-mpg;
+15 -> horsepower;
+16 -> length;
+17 -> make;
+18 -> normalized-losses;
+19 -> num-of-cylinders;
+20 -> num-of-doors;
+21 -> peak-rpm;
+22 -> price;
+23 -> stroke;
+24 -> weight;
+25 -> wheel-base;
+26 -> width

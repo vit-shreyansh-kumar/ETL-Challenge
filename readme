@@ -1,0 +1,7 @@
+
+This file contains the package. Development environment used to be python 3.5.
+It has been developed in python without using any extra libraries.
+This file includes test files and setup.py file.
+This package can be extracted and used.
+This contains a documentation file and the comments havs been provided in the code.
+The test file generates output.csv file.
