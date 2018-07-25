@@ -13,7 +13,7 @@ if __name__ == "__main__":
         for x in pr:
             write.writerow(x)
 
-    obj = transform.Transform('ETL_challenge/Challenge_me.txt')
+    obj = transform.Transform('Challenge_me.txt')
     pr = obj.full_tranformation()
     """ write to a csv file."""
     import csv
